@@ -1,11 +1,11 @@
 # patriciomolina.com
 
-[![Deploy](https://github.com/pmolina/patriciomolina.com/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pmolina/patriciomolina.com/actions)
+[![Live](https://img.shields.io/website?url=https%3A%2F%2Fpatriciamolina.com&label=patriciomolina.com)](https://patriciomolina.com)
 [![Built with Vite](https://img.shields.io/badge/built%20with-Vite-646cff?logo=vite&logoColor=white)](https://vitejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-v4-06b6d4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Hosted on GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-222?logo=github&logoColor=white)](https://pages.github.com)
 
-Personal website for [patriciomolina.com](https://patriciomolina.com) — a fast, minimal, dark-themed single-page site built with Vite and Tailwind CSS v4.
+[Pato](https://x.com/patomolina)'s personal website: a fast, minimal, dark-themed single-page site built with Vite and Tailwind CSS v4.
 
 ---
 
@@ -18,20 +18,6 @@ Personal website for [patriciomolina.com](https://patriciomolina.com) — a fast
 | [Inter](https://fonts.google.com/specimen/Inter) | Typography (Google Fonts) |
 | [GitHub Pages](https://pages.github.com) | Hosting |
 | [gh-pages](https://github.com/tschaub/gh-pages) | Deployment to `gh-pages` branch |
-
-## Project structure
-
-```
-.
-├── index.html          # Entry point
-├── src/
-│   └── style.css       # Tailwind import
-├── public/
-│   └── photo.jpg       # Profile photo
-├── vite.config.js      # Vite + Tailwind plugin config
-├── package.json
-└── CNAME               # patriciomolina.com
-```
 
 ## Development
 
